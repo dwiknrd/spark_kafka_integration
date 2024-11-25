@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1730957644795,"sparkVersion":"3.5.3","uid":"OneHotEncoder_25fd6fa6ea2c","paramMap":{"outputCol":"loan_grade_encoded","inputCol":"loan_grade_index"},"defaultParamMap":{"handleInvalid":"error","outputCol":"OneHotEncoder_25fd6fa6ea2c__output","dropLast":true}}
